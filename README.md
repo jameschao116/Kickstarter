@@ -11,9 +11,12 @@ My thought was we could create a Kickstarter where users could come to learn abo
 The users/supporters would be paying to learn about all these things. We could also partner with local shops like EVO, Tactics and US Outdoor (I know the buyers, marketing teams and shop kids) and if they kicked in some product (shop apparel, snowboard wax, stickers, etc.) we would promote them as well. This would all be done on a continual video log. There would be two parts to that. 1) would be sitting down in front of the camera/home computer and logging tutorials and updates, and 2) would be filming up at the mountains. We would use GoPros, HitCase’s for your phones, and other low cost equipment to document everything.
 
 The start up cost would need to cover:
-Gas
-Production/Editing time
-Equipment
+
+- Gas
+- Production/Editing time
+- Equipment
 
 Please let me know what your thoughts are. I don’t remember the specifics of everything we need to cover, but this is what it says on the syllabus 2/22/16 – The Semantic Web (homework 7 due – design a crowdfunding campaign with an idea, a deliverable, and 3 rewards)
+
+Please submit additions in the Readme.md, let's not over complicate this :)
 
